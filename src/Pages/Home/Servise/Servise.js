@@ -8,7 +8,7 @@ const Servise = ({ product }) => {
 
 
     const handleClick = id => {
-        navigate(`/checkout/${id}`)
+        navigate(`/servise/${id}`)
     }
 
     return (
@@ -21,7 +21,7 @@ const Servise = ({ product }) => {
             <p>{Pro_2}</p>
             <p>{Pro_3}</p>
             <p>{Pro_4}</p>
-            <button as={Link} to="/checkout" onClick={() => handleClick(id)} className='btn btn-success'> Book Now</button>
+            <button as={Link} to="/servise" onClick={() => handleClick(id)} className='btn btn-success'> Book Now</button>
 
         </div>
     );
