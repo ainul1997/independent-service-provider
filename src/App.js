@@ -32,7 +32,7 @@ function App() {
             <Servises></Servises>
           </RequireAuth>
         }></Route>
-        <Route path="/checkout" element={<CheckOut></CheckOut>}></Route>
+        <Route path="/checkout/" element={<CheckOut></CheckOut>}></Route>
         <Route path="/blog" element={<Blog></Blog>}></Route>
 
 

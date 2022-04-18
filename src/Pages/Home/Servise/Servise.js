@@ -8,7 +8,7 @@ const Servise = ({ product }) => {
 
 
     const handleClick = id => {
-        navigate(`/servise/${id}`)
+        navigate(`/checkout/${id}`)
     }
 
     return (
