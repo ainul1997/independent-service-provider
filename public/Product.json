@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Product",
+        "number": "Package 01",
+        "price": 199,
+        "time": "6 hour duration"
+    },
+    {
+        "id": 2,
+        "name": "Events",
+        "number": "Package 2",
+        "price": 599,
+        "time": "12 hour duration"
+    },
+    {
+        "id": 3,
+        "name": "Videography",
+        "number": "Package 03",
+        "price": 999,
+        "time": "24 hour duration"
+    }
+]
