@@ -12,7 +12,7 @@ const About = () => {
                 <img style={{ width: "150px", height: "150px", borderRadius: " 300px", marginTop: "20px" }} src={pic} alt="" />
                 <h2 className='mt-5'> MD. AINUL ISLAM</h2>
                 <p>I am still vaccinated, overcoming all adversity, for this I thank Allah Almighty. Come to this course with many dreams. But in a few days all the adversity, obstacles, adversity fell on me. I know I'm far behind. But never give up.
-                    No one learns anything from mother's womb. I don't know how much success I can achieve. My dream is to become a developer and get a job or freelancing. I will take care of my world.</p>
+                    No one learns anything from mother's womb. I don't know how much success I can achieve. My dream is to become a developer and get a job or freelancing. I will take care of my world. .........</p>
             </div>
         </div>
     );
