@@ -4,20 +4,32 @@
         "name": "Product",
         "number": "Package 01",
         "price": 199,
-        "time": "6 hour duration"
+        "time": "6 hour duration",
+        "Pro_1": " 100 personal photograph",
+        "Pro_2": " 1 edited video",
+        "Pro_3": " 20 printed copy",
+        "Pro_4": "1 digital album"
     },
     {
         "id": 2,
         "name": "Events",
         "number": "Package 2",
         "price": 599,
-        "time": "12 hour duration"
+        "time": "12 hour duration",
+        "Pro_1": " 200 personal photograph",
+        "Pro_2": " 3 edited video",
+        "Pro_3": " 40 printed copy",
+        "Pro_4": "2 digital album"
     },
     {
         "id": 3,
         "name": "Videography",
         "number": "Package 03",
         "price": 999,
-        "time": "24 hour duration"
+        "time": "24 hour duration",
+        "Pro_1": " 500 personal photograph",
+        "Pro_2": " 10 edited video",
+        "Pro_3": " 90 printed copy",
+        "Pro_4": "10 digital album"
     }
 ]
